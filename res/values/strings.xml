@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lights On</string>
+    <string name="lightsOn_txt">On</string>
+    <string name="lightsOff_txt">Off</string>
+</resources>
